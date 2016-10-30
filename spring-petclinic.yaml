@@ -1,4 +1,4 @@
-name: spring-petclinic
+name: spring-petclinic-2
 location: azure-west-europe
 services:
   - type: 'TomcatServer:4.1.0'
